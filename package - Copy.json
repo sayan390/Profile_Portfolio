@@ -1,0 +1,23 @@
+{
+  "name": "sayan-nandi-portfolio",
+  "version": "1.0.0",
+  "description": "Sayan Nandi's Personal Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "gsap": "^3.12.2",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10",
+    "path": "^0.12.7",
+    "typewriter-effect": "^2.20.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
